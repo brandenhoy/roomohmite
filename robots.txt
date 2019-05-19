@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaitaidug.hellopan.top/sitemap.xml
